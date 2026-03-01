@@ -1,0 +1,20 @@
+ Volume in drive C is OS
+ Volume Serial Number is F4D9-6621
+
+ Directory of c:\Users\akifk\OneDrive\Desktop\tars
+
+23.02.2026  02:21    <DIR>          .
+23.02.2026  01:20    <DIR>          ..
+23.02.2026  02:20               229 do_install.bat
+23.02.2026  02:21                 0 final_check.txt
+23.02.2026  01:55                15 py11.txt
+23.02.2026  01:52                33 py_list.txt
+23.02.2026  01:19         1.331.872 tars.mp4
+23.02.2026  01:41         1.323.086 tars.wav
+23.02.2026  02:00               137 tts_install.log
+23.02.2026  02:00               137 tts_install2.log
+23.02.2026  01:56    <DIR>          venv
+23.02.2026  02:14             2.154 w-tts-server.py
+23.02.2026  01:52             2.072 winget.txt
+              10 File(s)      2.659.735 bytes
+               3 Dir(s)  26.711.465.984 bytes free

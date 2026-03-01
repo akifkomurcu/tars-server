@@ -1,0 +1,25 @@
+# Large binaries
+*.onnx
+*.zip
+*.mp4
+*.wav
+
+# Datasets and Large Folders
+dataset/
+piper_cli/
+rvc/
+tars_repo/
+__pycache__/
+
+# Python
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Logs and Temp
+*.log
+git_output.txt
+git_status_*.txt
+git_status_*.txt
+.DS_Store
